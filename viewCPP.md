@@ -1,3 +1,5 @@
+![image](https://github.com/qkrgudals1030/MFC/assets/50895124/e7c1c70c-7111-4304-bc4d-52c38d56f995)
+
 ```
 
 // PeView.cpp: CPeView 클래스의 구현
